@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.exe
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.deps.json
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.runtimeconfig.json
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.runtimeconfig.dev.json
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.dll
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\ref\BasicBankSystem.dll
+C:\Users\asus\Desktop\BasicBankSystem\bin\Debug\net5.0\BasicBankSystem.pdb
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.AssemblyInfo.cs
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.dll
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\ref\BasicBankSystem.dll
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.pdb
+C:\Users\asus\Desktop\BasicBankSystem\obj\Debug\net5.0\BasicBankSystem.genruntimeconfig.cache
