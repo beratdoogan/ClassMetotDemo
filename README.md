@@ -1,2 +1,2 @@
 # ClassMetotDemo
-Kamp 3.gün ödevi
+Camp 3th day homework
